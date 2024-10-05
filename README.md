@@ -5,8 +5,8 @@ Messenger for Devs, Made by a Dev
 
 ### Todo
 ---
-- [] API routes for Auth (Login/SignUp)
-- [] Auth page UI
-- [] Socket.io Integration
-- [] Main Chat UI
-- [] Temporary Space UI
+- [ ] API routes for Auth (Login/SignUp)
+- [ ] Auth page UI
+- [ ] Socket.io Integration
+- [ ] Main Chat UI
+- [ ] Temporary Space UI
